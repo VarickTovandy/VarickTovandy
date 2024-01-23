@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Website Projects.**
 
-- 👨‍💻 All of my projects are available at [https://varick-tovandy.netlify.app/](https://varick-tovandy.netlify.app/)
+- 👨‍💻 Here are my portfolio [https://varick-tovandy.netlify.app/](https://varick-tovandy.netlify.app/)
 
 - 💬 Ask me about **anything website related**
 
