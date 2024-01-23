@@ -1,5 +1,16 @@
 # 💫 About Me:
-I'm currently working as a front-end intern on Zettabyte, you can ask me about anything web related.
+<h1 align="center">Hi 👋, I'm Varick</h1>
+<h3 align="center">A beginner front-end developer from Yogyakarta, Indonesia</h3>
+
+- 🔭 I’m currently working on **Zettabyte.**
+
+- 🌱 I’m currently learning **Angular framework**
+
+- 👯 I’m looking to collaborate on **Website Projects.**
+
+- 👨‍💻 All of my projects are available at [https://varick-tovandy.netlify.app/](https://varick-tovandy.netlify.app/)
+
+- 💬 Ask me about **anything website related**
 
 
 ## 🌐 Socials:
