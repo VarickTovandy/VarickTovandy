@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Varick</h1>
-<h3 align="center">A beginner front-end developer from Yogyakarta, Indonesia</h3>
+<h3 align="center">A front-end developer from Medan, Indonesia</h3>
 
 - 🌱 I’m currently learning **Angular framework**
 
