@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Varick</h1>
 <h3 align="center">A beginner front-end developer from Yogyakarta, Indonesia</h3>
 
-- 🔭 I’m currently working on **Zettabyte.**
-
 - 🌱 I’m currently learning **Angular framework**
 
 - 👯 I’m looking to collaborate on **Website Projects.**
